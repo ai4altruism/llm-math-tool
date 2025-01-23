@@ -117,7 +117,7 @@ For questions and support, please contact: team@ai4altruism.org
 ## Acknowledgments
 
 * OpenAI for providing the GPT API
-* The Python community for security best practices
+* The Python community for security best practices.
 * Contributors to the project
 
 ## Citation
