@@ -106,28 +106,36 @@ The test suite covers:
 
 Contributions are welcome! Please feel free to submit a Pull Request
 
-## License
+## 📜 License
 
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details. Copyright (C) 2025.
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). Copyright (c) 2025 AI for Altruism Inc.
 
-## Contact
+When using or distributing this software, please attribute as follows:
 
-For questions and support, please contact: team@ai4altruism.org
+```
+LLM Math Tool
+Copyright (c) 2025 AI for Altruism Inc
+License: GNU GPL v3.0
+```
+
+## 🎯 Contributing
+
+Pull requests are welcome! To contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📩 Contact
+
+For issues or questions, please open a GitHub issue or contact:
+
+- **Email**: team@ai4altruism.org
 
 ## Acknowledgments
 
 * OpenAI for providing the GPT API
 * The Python community for security best practices
 
-## Citation
-
-If you use this code in your research or project, please cite:
-
-```bibtex
-@software{secure_math_solver,
-  title = {Secure Math Problem Solver},
-  author = {AI4Altruism Team},
-  year = {2025},
-  url = {https://github.com/yourusername/secure-math-solver}
-}
-```
